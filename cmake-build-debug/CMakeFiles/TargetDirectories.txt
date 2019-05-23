@@ -1,0 +1,3 @@
+C:/Users/vlad/CLionProjects/Firstcoursefinish/cmake-build-debug/CMakeFiles/Firstcoursefinish.dir
+C:/Users/vlad/CLionProjects/Firstcoursefinish/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlad/CLionProjects/Firstcoursefinish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
